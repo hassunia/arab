@@ -155,156 +155,156 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
 #EXTINF:-1 group-title=”ARABIC”,MERCI TV
 http://63.237.48.23/ios/MERCI_TV/MERCI_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,AAA FAMILY,
+#EXTINF:-1 group-title=”ARABIC”,AAA FAMILY
 http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GEM MIFA,http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-TV P,http://63.237.48.23/ios/TVP/TVP.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-TM TV,http://63.237.48.23/ios/MI_TV/MI_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-FACE 2 FACE,http://63.237.48.23/ios/FACE2/FACE2.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA DRAMA,http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA ALOULA,http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA,http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA NEWS,http://82.137.248.16:1935/Snews/SnewLive3/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-DUBAI TV,http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SAMA DUBAI,http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-DUBAI ONE,http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-DUBAI DRAMA,http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-DUBAI SPORTS,http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-BOLLYWOOD FLIX,http://admin.8packlive.tulix.tv/hls/bollywoodflix/bollywoodflix.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-BOLLYWOOD MOVIES,http://admin.8packlive.tulix.tv/hls/bollywoodmovies/bollywoodmovies.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-DUBAI TV,http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN ASRE EMROZZ,http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN CHANNEL ONE,http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN GEM_KURD,http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN GEM_TRAVEL,http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN IRINN,http://63.237.48.3/ios/IRINN/IRINN.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN ITC TV,http://63.237.48.3/ios/ITC/ITC.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN JAME_JAM,http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN ONYX HD,http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN PNG,http://63.237.48.3/ios/PNG/PNG.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN QURAN_TV,http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN TAPESH,http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN VARZESH TV,http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN VELAYAT,http://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN FMTV,http://63.237.48.3/ios/IRAN_FMTV/IRAN_FMTV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN MNTV,http://63.237.48.3/ios/IRAN_MNTV/IRAN_MNTV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-MERCI TV,http://63.237.48.3/ios/MERCI_TV/MERCI_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-MI TV,http://63.237.48.3/ios/MI_TV/MI_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN PLUS,http://63.237.48.3/ios/IRAN_PLUS/IRAN_PLUS.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN ASTV,http://63.237.48.3/ios/IRAN_AS_TV/IRAN_AS_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN A TV,http://63.237.48.3/ios/IRAN_A_TV/IRAN_A_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN PLUS,http://63.237.48.3/ios/IRAN_PLUS/IRAN_PLUS.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRIB,http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRINN,http://63.237.48.3/ios/IRINN/IRINN.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-ITC TV,http://63.237.48.3/ios/ITC/ITC.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-ICC TV,http://63.237.48.3/ios/ICC/ICC.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-DIDAR TV,http://63.237.48.3/ios/DIDAR/DIDAR.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-TAPESH,http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-VARZESH TV,http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-VELAYET TV,http://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-CHANNEL ONE,http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN PNG,http://63.237.48.3/ios/PNG/PNG.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-ONYX HD,http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GEM KURD,http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GEM TRAVEL,http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-ASRE EMROZZ,http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRAN QURAN,http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-JAME JAM,http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-AL OLAULA,http://alaoulainter-tv.scdn.arkena.com/alaoulainter.isml/alaoulainter-audio101=64000-video=350000.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-AL MAGHRIBYA,http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=64000-video=350000.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-AL ARABIYA,http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8?v=1096642953
-#EXTINF:-1 group-title=”ARABIC”,
-DUBAI,http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8?v=1096642953
-#EXTINF:-1 group-title=”ARABIC”,
-DUBAI TV,http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-DUBAI ONE,http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-CBC,http://185.5.222.231:4242/bysid/5108
-#EXTINF:-1 group-title=”ARABIC”,
-AL JAZEERA CHILD,http://brightcove03-f.akamaihd.net/jeem_mena_400@95898?gmswf=1407167774
-#EXTINF:-1 group-title=”ARABIC”,
-AL HADATH,http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-CNA,rtmp://str81.creacast.com:80/cna/live.sdp
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA TV,rtmp://82.137.248.16/Sat/SatLive3
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA,http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA,http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA,http://82.137.248.16:1935/Sat/SatLive3/chunklist_w511398413.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA NOUR,http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA NOUR,rtmp://82.137.248.21/Nour?gmswf=1481251590/NourLive3
-#EXTINF:-1 group-title=”ARABIC”,
-SAMA SYRIA,rtmp://sama-tv.net/live//samatv
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA ALOULA,http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA DRAMA,rtmp://82.137.248.21/Drama/DramaLive2
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA DRAMA,http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SYRIA ALOULA,http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GEM MIFA
+http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
+#EXTINF:-1 group-title=”ARABIC”,TV P
+http://63.237.48.23/ios/TVP/TVP.m3u8
+#EXTINF:-1 group-title=”ARABIC”,TM TV
+http://63.237.48.23/ios/MI_TV/MI_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,FACE 2 FACE
+http://63.237.48.23/ios/FACE2/FACE2.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SYRIA DRAMA
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SYRIA ALOULA
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SYRIA
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SYRIA NEWS
+http://82.137.248.16:1935/Snews/SnewLive3/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DUBAI TV
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SAMA DUBAI
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DUBAI ONE
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DUBAI DRAMA
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DUBAI SPORTS
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,BOLLYWOOD FLIX
+http://admin.8packlive.tulix.tv/hls/bollywoodflix/bollywoodflix.m3u8
+#EXTINF:-1 group-title=”ARABIC”,BOLLYWOOD MOVIES
+http://admin.8packlive.tulix.tv/hls/bollywoodmovies/bollywoodmovies.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DUBAI TV
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN ASRE EMROZZ
+http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN CHANNEL ONE
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN GEM_KURD
+http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN GEM_TRAVEL
+http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN IRINN
+http://63.237.48.3/ios/IRINN/IRINN.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN ITC TV
+http://63.237.48.3/ios/ITC/ITC.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN JAME_JAM
+http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN ONYX HD
+http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN PNG
+http://63.237.48.3/ios/PNG/PNG.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN QURAN_TV
+http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN TAPESH
+http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN VARZESH TV
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN VELAYAT
+http://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN FMTV
+http://63.237.48.3/ios/IRAN_FMTV/IRAN_FMTV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN MNTV
+http://63.237.48.3/ios/IRAN_MNTV/IRAN_MNTV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MERCI TV
+http://63.237.48.3/ios/MERCI_TV/MERCI_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MI TV
+http://63.237.48.3/ios/MI_TV/MI_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN PLUS
+http://63.237.48.3/ios/IRAN_PLUS/IRAN_PLUS.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN ASTV
+http://63.237.48.3/ios/IRAN_AS_TV/IRAN_AS_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN A TV
+http://63.237.48.3/ios/IRAN_A_TV/IRAN_A_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN PLUS
+http://63.237.48.3/ios/IRAN_PLUS/IRAN_PLUS.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRIB
+http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRINN
+http://63.237.48.3/ios/IRINN/IRINN.m3u8
+#EXTINF:-1 group-title=”ARABIC”,ITC TV
+http://63.237.48.3/ios/ITC/ITC.m3u8
+#EXTINF:-1 group-title=”ARABIC”,ICC TV
+http://63.237.48.3/ios/ICC/ICC.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DIDAR TV
+http://63.237.48.3/ios/DIDAR/DIDAR.m3u8
+#EXTINF:-1 group-title=”ARABIC”,TAPESH
+http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
+#EXTINF:-1 group-title=”ARABIC”,VARZESH TV
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,VELAYET TV
+http://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,CHANNEL ONE
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN PNG
+http://63.237.48.3/ios/PNG/PNG.m3u8
+#EXTINF:-1 group-title=”ARABIC”,ONYX HD
+http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GEM KURD
+http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GEM TRAVEL
+http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
+#EXTINF:-1 group-title=”ARABIC”,ASRE EMROZZ
+http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRAN QURAN
+http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,JAME JAM
+http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
+#EXTINF:-1 group-title=”ARABIC”,AL OLAULA
+http://alaoulainter-tv.scdn.arkena.com/alaoulainter.isml/alaoulainter-audio101=64000-video=350000.m3u8
+#EXTINF:-1 group-title=”ARABIC”,AL MAGHRIBYA
+http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=64000-video=350000.m3u8
+#EXTINF:-1 group-title=”ARABIC”,AL ARABIYA
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8?v=1096642953
+#EXTINF:-1 group-title=”ARABIC”,DUBAI
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8?v=1096642953
+#EXTINF:-1 group-title=”ARABIC”,DUBAI TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DUBAI ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
+#EXTINF:-1 group-title=”ARABIC”,CBC
+http://185.5.222.231:4242/bysid/5108
+#EXTINF:-1 group-title=”ARABIC”,AL JAZEERA CHILD
+http://brightcove03-f.akamaihd.net/jeem_mena_400@95898?gmswf=1407167774
+#EXTINF:-1 group-title=”ARABIC”,AL HADATH
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title=”ARABIC”,CNA
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:-1 group-title=”ARABIC”,SYRIA TV
+rtmp://82.137.248.16/Sat/SatLive3
+#EXTINF:-1 group-title=”ARABIC”,SYRIA
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SYRIA
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SYRIA
+http://82.137.248.16:1935/Sat/SatLive3/chunklist_w511398413.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SYRIA NOUR
+http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SYRIA NOUR
+rtmp://82.137.248.21/Nour?gmswf=1481251590/NourLive3
+#EXTINF:-1 group-title=”ARABIC”,SAMA SYRIA
+rtmp://sama-tv.net/live//samatv
+#EXTINF:-1 group-title=”ARABIC”,SYRIA ALOULA
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SYRIA DRAMA
+rtmp://82.137.248.21/Drama/DramaLive2
+#EXTINF:-1 group-title=”ARABIC”,SYRIA DRAMA
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SYRIA ALOULA
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
 #EXTINF:-1 group-title=”ARABIC”,
 SYRIAN EDUCATIAL,rtmp://82.137.248.16/Snews/SnewsLive1
 #EXTINF:-1 group-title=”ARABIC”,
