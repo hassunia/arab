@@ -1,6 +1,8 @@
 #EXTM3U
-MEKKE TV,http://46.245.160.224/mekke/mekke/playlist.m3u8
-MEDINE TV,http://livetr.gostream.nl/medine/medine/hasbahca.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MEKKE TV
+http://46.245.160.224/mekke/mekke/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MEDINE TV
+http://livetr.gostream.nl/medine/medine/hasbahca.m3u8
 MBC HD,http://87.248.160.8/edge/smil:mbc/playlist.m3u8
 MBC ACTION,http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 MBC BOLLYWOOD,http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
