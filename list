@@ -1895,3 +1895,103 @@ http://arrabiaa-tv.scdn.arkena.com/arrabiaa.isml/MOROCCOPES.m3u8
 http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/MOROCCOPES.m3u8
 #EXTINF:-1 tvg-id="assadissa", assadissa
 http://assadissa-tv.scdn.arkena.com/assadissa.isml/MOROCCOPES.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="tagesschau24.png",TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="arte.png",ARTE
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png",SERVUS TV DE
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+#EXTINF:-1 tvg-id="n24.de" tvg-logo="n24.png",N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-logo="ard.png",ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="tagesschau24.png",TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="zdfneo.png",ZDF NEO
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="zdfinfo.png",ZDF INFO
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
+#EXTINF:-1 tvg-id="ZDFtheater.de" tvg-logo="zdfkultur.png",ZDF KULTUR
+http://zdf1112-lh.akamaihd.net/i/de11_v1@392881/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="3sat.png",3SAT
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="phoenix.png",PHOENIX
+http://zdf_hds_de-f.akamaihd.net/i/de09_v1@87012/master.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="arte.png",ARTE
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png",SERVUS TV DE
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-logo="servustv.png",SERVUS TV AT
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
+#EXTINF:-1 tvg-id="n24.de" tvg-logo="n24.png",N24
+http://n24-live.hls.adaptive.level3.net/n24/live2cms/live2cms.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="n-tv.png",N-TV
+http://p.live.fra.n-tv.de/hls-live/ntvlive-hls.m3u8
+#EXTINF:-1 tvg-id="MDRThuringen.de" tvg-logo="mdr.png",MDR THÜRINGEN
+http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-logo="mdr.png",MDR SACHSEN-ANHALT
+http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-logo="mdr.png",MDR SACHSEN
+http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="ndr.png",NDR HAMBURG
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="ndr.png",NDR MECKLENBURG-VORPOMMERN
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="ndr.png",NDR NIEDERSACHSEN
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="ndr.png",NDR SCHLESWIG-HOLSTEIN
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/master.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="srfernsehen.png",SR
+http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:-1 tvg-id="SWR-rp.de" tvg-logo="swr.png",SWR RHEINLAND-PFALZ
+http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
+#EXTINF:-1 tvg-id="SWR.de" tvg-logo="swr.png",SWR BADEN-WÜRTTEMBERG
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-logo="wdr.png",WDR
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-logo="br.png",BR NORD
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-logo="br.png",BR SÜD
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-logo="ard-alpha.png",ARD-ALPHA
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-logo="hr-fernsehen.png",HR-FERNSEHEN
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="rbbBrandenburg.de" tvg-logo="rbb.png",RBB BRANDENBURG
+http://rbb_live-lh.akamaihd.net/i/rbb_brandenburg@107638/master.m3u8
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-logo="rbb.png",RBB BERLIN
+http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="disneychannel.png",DISNEY CHANNEL
+https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8
+#EXTINF:-1 tvg-id="RiC.de" tvg-logo="ric.png",RIC
+http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
+#EXTINF:-1 tvg-id="Kika.de" tvg-logo="kika.png",KIKA
+http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-logo="anixesd.png",ANIXE
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+#EXTINF:-1 tvg-id="FamilyTV.de" tvg-logo="familytv.png",FAMILY TV
+http://91.250.73.118:1935/live/_definst_/Stream3/playlist.m3u8
+#EXTINF:-1 tvg-id="Blizz.de" tvg-logo="blizztv.png",BLIZZ TV
+http://91.250.73.118:1935/live/_definst_/DasneueTV/playlist.m3u8
+#EXTINF:-1 tvg-id="MelodieTV.at" tvg-logo="melodietv.png",MELODIE TV
+http://83.169.58.40:1935/live/_definst_/Melodie/playlist.m3u8
+#EXTINF:-1 tvg-id="joiz.de" tvg-logo="joiz.png",JOIZ
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/master.m3u8
+#EXTINF:-1 tvg-id="go.tv" tvg-logo="gotv.png",GOTV
+http://stream007.gotv.at:1935/live/gotvlive_source/playlist.m3u8
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-logo="deluxemusic.png",DELUXE MUSIC
+http://flash3.ipercast.net/deluxemusic.tv-live/smil:deluxe.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="xite.tv" tvg-logo="xite.png",XITE
+http://highvolume02.streampartner.nl:1935/vleugels2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-logo="deluxemusic.png",DELUXE MUSIC
+http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="vevotv.png",VEVO TV 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1 tvg-logo="vevotv.png",VEVO TV 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
+#EXTINF:-1 tvg-logo="vevotv.png",VEVO TV 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
+#EXTINF:-1 tvg-logo="vevotv.png",VEVO TV DE
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/appleman.m3u8
