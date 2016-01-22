@@ -19,144 +19,144 @@ MBC 2,http://63.237.48.23/ios/MBC2/MBC2.m3u8
 MBC 4,http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1 group-title=”ARABIC”,
 MBC 4,http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-MBC ACTION,http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-MBC ACTION 2,http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-QURAN TV 1,http://148.251.73.76:8000/live/cristo/start1/296.ts
-#EXTINF:-1 group-title=”ARABIC”,
-MBC MAX,http://148.251.73.76:8000/live/cristo/start1/300.ts
-#EXTINF:-1 group-title=”ARABIC”,
-MBC 1,http://148.251.73.76:8000/live/cristo/start1/306.ts
-#EXTINF:-1 group-title=”ARABIC”,
-MBC 2,http://148.251.73.76:8000/live/cristo/start1/297.ts
-#EXTINF:-1 group-title=”ARABIC”,
-MBC ACTION,http://148.251.73.76:8000/live/cristo/start1/299.ts
-#EXTINF:-1 group-title=”ARABIC”,
-MBC 4,http://148.251.73.76:8000/live/cristo/start1/298.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN MOVIES 1HD,http://148.251.73.76:8000/live/cristo/start1/291.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN MOVIES 2HD,http://148.251.73.76:8000/live/cristo/start1/290.ts
-#EXTINF:-1 group-title=”ARABIC”,
-2M MAROC,http://148.251.73.76:8000/live/cristo/start1/305.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 1 HD,http://148.251.73.76:8000/live/cristo/start1/288.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 2 HD,http://148.251.73.76:8000/live/cristo/start1/287.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 3 HD,http://148.251.73.76:8000/live/cristo/start1/284.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 4 HD,http://148.251.73.76:8000/live/cristo/start1/283.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 5 HD,http://148.251.73.76:8000/live/cristo/start1/282.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 6 HD,http://148.251.73.76:8000/live/cristo/start1/281.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 7 HD,http://148.251.73.76:8000/live/cristo/start1/280.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 8 HD,http://148.251.73.76:8000/live/cristo/start1/279.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 9 HD,http://148.251.73.76:8000/live/cristo/start1/278.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 10 HD,http://148.251.73.76:8000/live/cristo/start1/277.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 1 FR HD,http://148.251.73.76:8000/live/cristo/start1/295.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 2 FR HD,http://148.251.73.76:8000/live/cristo/start1/294.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 1 EN HD,http://148.251.73.76:8000/live/cristo/start1/289.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 3 EN HD,http://148.251.73.76:8000/live/cristo/start1/285.ts
-#EXTINF:-1 group-title=”ARABIC”,
-BEIN SPORTS 2 EN HD,http://148.251.73.76:8000/live/cristo/start1/286.ts
-#EXTINF:-1 group-title=”ARABIC”,
-MTC,http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-VOA PERSIAN,http://63.237.48.23/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-FARSI1,http://63.237.48.23/ios/FARSI1/FARSI1.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRIB TV1,http://63.237.48.23/ios/IRIB_TV1/IRIB_TV1.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRIB TV2,http://63.237.48.23/ios/IRIB_TV2/IRIB_TV2.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRIB TV3,http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRIB TV4,http://63.237.48.23/ios/IRIB_TV4/IRIB_TV4.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRIB TV5,http://63.237.48.23/ios/IRIB_TV5/IRIB_TV5.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRIB Nasim,http://63.237.48.23/ios/IRIB_NASIM/IRIB_NASIM.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRIB MOSTANAD,http://63.237.48.23/ios/IRIB_MOSTANAD/IRIB_MOSTANAD.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRIB AMOOZESH,http://63.237.48.23/ios/IRIB_AMOOZESH/IRIB_AMOOZESH.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRIB VARZESH 9 IRAN,http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-IRINN,http://63.237.48.23/ios/IRINN/IRINN.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SHOMA,http://63.237.48.23/ios/IRIB_SHOMA/IRIB_SHOMA.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-POUYA,http://63.237.48.23/ios/POOYA_TV/POOYA_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-NAMAYESH,http://63.237.48.23/ios/IRIB_NAMAYESH/IRIB_NAMAYESH.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-SALAM TV,http://63.237.48.3/ios/SALAMN_TV/SALAMN_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-QURAN TV,http://63.237.48.23/ios/QURAN_TV/QURAN_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-VELAYAT TV,http://63.237.48.23/ios/VELAYAT_TV/VELAYAT_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-PARS TV,http://63.237.48.23/ios/PARSTV/PARSTV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-ANDISHEH TV,http://63.237.48.23/ios/ANDISHEH/ANDISHEH.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-ITN,http://63.237.48.23/ios/ITN/ITN.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GEM RIVER,http://63.237.48.23/ios/GEM_RIVER/GEM_RIVER.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GEM BOLLYWOOD,http://63.237.48.23/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GEM JUNIOR,http://63.237.48.23/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-MY TV,http://63.237.48.23/ios/4U_CARTOON/4U_CARTOON.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GEM RUBIX,http://63.237.48.23/ios/GEM_RUBIX/GEM_RUBIX.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GEM LIFE,http://63.237.48.23/ios/GEL_LIFE/GEL_LIFE.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GEM USA,http://63.237.48.23/ios/GEM_USA/GEM_USA.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GANJ E HOZOUR,http://63.237.48.23/ios/GANJ_E_HOZOOR/GANJ_E_HOZOOR.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-Ti TV,http://63.237.48.23/ios/TAPESH/TAPESH.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-DIDAR GLOBAL PLUS,http://63.237.48.23/ios/DIDAR/DIDAR.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-KURDISTAN TV,http://63.237.48.23/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-GEM KURD,http://63.237.48.23/ios/GEM_KURD/GEM_KURD.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-ITC,http://63.237.48.23/ios/ITC/ITC.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-ten TV,http://63.237.48.23/ios/TEN_TV/TEN_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-MBC 2,http://63.237.48.23/ios/MBC2/MBC2.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-MBC 4,http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-MBC MAX,http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-MBC ACTION,http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-ALMAS TV,http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-MERCI TV,http://63.237.48.23/ios/MERCI_TV/MERCI_TV.m3u8
-#EXTINF:-1 group-title=”ARABIC”,
-AAA FAMILY,http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC ACTION
+http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC ACTION 2
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 group-title=”ARABIC”,QURAN TV 1
+http://148.251.73.76:8000/live/cristo/start1/296.ts
+#EXTINF:-1 group-title=”ARABIC”,MBC MAX
+http://148.251.73.76:8000/live/cristo/start1/300.ts
+#EXTINF:-1 group-title=”ARABIC”,MBC 1
+http://148.251.73.76:8000/live/cristo/start1/306.ts
+#EXTINF:-1 group-title=”ARABIC”,MBC 2
+http://148.251.73.76:8000/live/cristo/start1/297.ts
+#EXTINF:-1 group-title=”ARABIC”,MBC ACTION
+http://148.251.73.76:8000/live/cristo/start1/299.ts
+#EXTINF:-1 group-title=”ARABIC”,MBC 4
+http://148.251.73.76:8000/live/cristo/start1/298.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN MOVIES 1HD
+http://148.251.73.76:8000/live/cristo/start1/291.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN MOVIES 2HD
+http://148.251.73.76:8000/live/cristo/start1/290.ts
+#EXTINF:-1 group-title=”ARABIC”,2M MAROC
+http://148.251.73.76:8000/live/cristo/start1/305.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 1 HD
+http://148.251.73.76:8000/live/cristo/start1/288.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 2 HD
+http://148.251.73.76:8000/live/cristo/start1/287.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 3 HD
+http://148.251.73.76:8000/live/cristo/start1/284.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 4 HD
+http://148.251.73.76:8000/live/cristo/start1/283.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 5 HD
+http://148.251.73.76:8000/live/cristo/start1/282.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 6 HD
+http://148.251.73.76:8000/live/cristo/start1/281.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 7 HD
+http://148.251.73.76:8000/live/cristo/start1/280.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 8 HD
+http://148.251.73.76:8000/live/cristo/start1/279.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 9 HD
+http://148.251.73.76:8000/live/cristo/start1/278.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 10 HD
+http://148.251.73.76:8000/live/cristo/start1/277.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 1 FR HD
+http://148.251.73.76:8000/live/cristo/start1/295.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 2 FR HD
+http://148.251.73.76:8000/live/cristo/start1/294.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 1 EN HD
+http://148.251.73.76:8000/live/cristo/start1/289.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 3 EN HD,
+http://148.251.73.76:8000/live/cristo/start1/285.ts
+#EXTINF:-1 group-title=”ARABIC”,BEIN SPORTS 2 EN HD,
+http://148.251.73.76:8000/live/cristo/start1/286.ts
+#EXTINF:-1 group-title=”ARABIC”,MTC
+http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,VOA PERSIAN
+http://63.237.48.23/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
+#EXTINF:-1 group-title=”ARABIC”,FARSI1
+http://63.237.48.23/ios/FARSI1/FARSI1.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRIB TV1
+http://63.237.48.23/ios/IRIB_TV1/IRIB_TV1.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRIB TV2
+http://63.237.48.23/ios/IRIB_TV2/IRIB_TV2.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRIB TV3
+http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRIB TV4
+http://63.237.48.23/ios/IRIB_TV4/IRIB_TV4.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRIB TV5
+http://63.237.48.23/ios/IRIB_TV5/IRIB_TV5.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRIB Nasim
+http://63.237.48.23/ios/IRIB_NASIM/IRIB_NASIM.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRIB MOSTANAD
+http://63.237.48.23/ios/IRIB_MOSTANAD/IRIB_MOSTANAD.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRIB AMOOZESH
+http://63.237.48.23/ios/IRIB_AMOOZESH/IRIB_AMOOZESH.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRIB VARZESH 9 IRAN
+http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,IRINN
+http://63.237.48.23/ios/IRINN/IRINN.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SHOMA
+http://63.237.48.23/ios/IRIB_SHOMA/IRIB_SHOMA.m3u8
+#EXTINF:-1 group-title=”ARABIC”,POUYA
+http://63.237.48.23/ios/POOYA_TV/POOYA_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,NAMAYESH
+http://63.237.48.23/ios/IRIB_NAMAYESH/IRIB_NAMAYESH.m3u8
+#EXTINF:-1 group-title=”ARABIC”,SALAM TV
+http://63.237.48.3/ios/SALAMN_TV/SALAMN_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,QURAN TV
+http://63.237.48.23/ios/QURAN_TV/QURAN_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,VELAYAT TV
+http://63.237.48.23/ios/VELAYAT_TV/VELAYAT_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,PARS TV
+http://63.237.48.23/ios/PARSTV/PARSTV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,ANDISHEH TV
+http://63.237.48.23/ios/ANDISHEH/ANDISHEH.m3u8
+#EXTINF:-1 group-title=”ARABIC”,ITN
+http://63.237.48.23/ios/ITN/ITN.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GEM RIVER
+http://63.237.48.23/ios/GEM_RIVER/GEM_RIVER.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GEM BOLLYWOOD
+http://63.237.48.23/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GEM JUNIOR
+http://63.237.48.23/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MY TV
+http://63.237.48.23/ios/4U_CARTOON/4U_CARTOON.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GEM RUBIX
+http://63.237.48.23/ios/GEM_RUBIX/GEM_RUBIX.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GEM LIFE
+http://63.237.48.23/ios/GEL_LIFE/GEL_LIFE.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GEM USA
+http://63.237.48.23/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GANJ E HOZOUR
+http://63.237.48.23/ios/GANJ_E_HOZOOR/GANJ_E_HOZOOR.m3u8
+#EXTINF:-1 group-title=”ARABIC”,Ti TV
+http://63.237.48.23/ios/TAPESH/TAPESH.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DIDAR GLOBAL PLUS
+http://63.237.48.23/ios/DIDAR/DIDAR.m3u8
+#EXTINF:-1 group-title=”ARABIC”,KURDISTAN TV
+http://63.237.48.23/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,GEM KURD
+http://63.237.48.23/ios/GEM_KURD/GEM_KURD.m3u8
+#EXTINF:-1 group-title=”ARABIC”,ITC
+http://63.237.48.23/ios/ITC/ITC.m3u8
+#EXTINF:-1 group-title=”ARABIC”,ten TV
+http://63.237.48.23/ios/TEN_TV/TEN_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC 2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC MAX
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC ACTION
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 group-title=”ARABIC”,ALMAS TV
+http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MERCI TV
+http://63.237.48.23/ios/MERCI_TV/MERCI_TV.m3u8
+#EXTINF:-1 group-title=”ARABIC”,AAA FAMILY,
+http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
 #EXTINF:-1 group-title=”ARABIC”,
 GEM MIFA,http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
 #EXTINF:-1 group-title=”ARABIC”,
